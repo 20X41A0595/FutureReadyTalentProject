@@ -32,6 +32,10 @@ This is a web based application developed for Beauty health related based websit
 ![Screenshot 2022-12-11 203108](https://user-images.githubusercontent.com/101818206/206912490-d1175585-f7b2-4c70-899c-bd8649f536b9.png)
 ![Screenshot 2022-12-11 203155](https://user-images.githubusercontent.com/101818206/206912511-81ee48f2-dbee-4e31-bf16-50333ecf2d8d.png)
 ![Screenshot 2022-12-11 203910](https://user-images.githubusercontent.com/101818206/206912541-5cac44f9-d9fe-48e5-9b73-ac691f7f87fe.png)
+![Screenshot 2022-12-11 210631](https://user-images.githubusercontent.com/101818206/206912985-4388f7a5-5780-446d-bba2-8bf62374d9eb.png)
+
+### Home -
+![Screenshot 2022-12-11 210736](https://user-images.githubusercontent.com/101818206/206913041-734b81a7-09ae-4f43-91d2-6d22d7a43d77.png)
 
    
 
