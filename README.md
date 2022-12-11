@@ -14,7 +14,7 @@ This is a web based application developed for Beauty health related based websit
 - Static web apps
 - Health bot
 
-## Features and Functionalities 😃!
+## Features and Functionalities !
 
 
 - Interactive and responsive UI.
@@ -34,33 +34,33 @@ This is a web based application developed for Beauty health related based websit
 ![Screenshot 2022-12-11 203910](https://user-images.githubusercontent.com/101818206/206912541-5cac44f9-d9fe-48e5-9b73-ac691f7f87fe.png)
 ![Screenshot 2022-12-11 210631](https://user-images.githubusercontent.com/101818206/206912985-4388f7a5-5780-446d-bba2-8bf62374d9eb.png)
 
-### Home -
+# Home -
 ![Screenshot 2022-12-11 210736](https://user-images.githubusercontent.com/101818206/206913041-734b81a7-09ae-4f43-91d2-6d22d7a43d77.png)
 
    
 
-### About Us -
+# About Us -
 ![Screenshot 2022-12-11 205754](https://user-images.githubusercontent.com/101818206/206912610-255b3f00-b603-496e-8295-e477f23b2bb2.png)
 
 
 
-### Gallery -
+# Gallery -
 ![Screenshot 2022-12-11 210008](https://user-images.githubusercontent.com/101818206/206912702-ee097d0a-b388-4cf0-9d68-8929ea3f9b4e.png)
 
 
 
-### Contact us -
+# Contact us -
 ![Screenshot 2022-12-11 210103](https://user-images.githubusercontent.com/101818206/206912745-fc147d68-b2df-4bcd-9a9f-35bdb6adb08e.png)
 
 
 
-### health bot
+# health bot
 
 ![Screenshot 2022-12-11 210236](https://user-images.githubusercontent.com/101818206/206912804-16e46887-04a5-4bfe-9319-2f77c8206959.png)
 
 
 
-## Tech Stack 💻
+# Tech Stack 
 
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
 - HTML
